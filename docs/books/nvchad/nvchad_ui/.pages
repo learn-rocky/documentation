@@ -1,0 +1,6 @@
+---
+nav:
+    - ... | builtin_plugins*.md
+    - ... | nvchad_ui*.md
+    - ... | using_nvchad*.md
+    - ... | nvimtree*.md
